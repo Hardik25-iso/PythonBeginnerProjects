@@ -30,7 +30,7 @@ Any specific tools/libraries your project relies on.
 1. **Clone this repository**:
 
  
-   git clone https://github.com/your-username/Hardik25-iso/Python-Beginner-Projects.git
+   git clone https://github.com/your-username/Hardik25-iso/python-beginner-projects.git
 
 
 2. **Navigate to a project folder** and follow the instructions there.
