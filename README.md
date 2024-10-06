@@ -27,13 +27,14 @@ Any specific tools/libraries your project relies on.
 
 ### Installation
 
-1. **Clone this repository**:
+1. **Frok this repository**:
+2. Clone your forked repository to your PC by first clicking on 'Code' on your Forked Repo, then copy the URL shown there. The URL should look like the following with your GitHub username in place of <your-username> :
 
  
    git clone https://github.com/your-username/Hardik25-iso/python-beginner-projects.git
 
 
-2. **Navigate to a project folder** and follow the instructions there.
+3. **Navigate to a project folder** and follow the instructions there.
 
 ### Running the Projects
 
